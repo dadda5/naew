@@ -79,7 +79,7 @@ public class HelloWorld {
             FileWriter file = new FileWriter("tourism.html");
             file.write(htmlContent);
             file.close();
-            System.out.println("Tourism page created successfully!");
+            System.out.println("Tourism page created Modi!");
         } catch (IOException e) {
             System.out.println("Error writing file.");
             e.printStackTrace();
