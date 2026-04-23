@@ -1,7 +1,7 @@
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class IndiaTourismPage {
+public class HelloWorld {
     public static void main(String[] args) {
         String htmlContent = """
         <!DOCTYPE html>
